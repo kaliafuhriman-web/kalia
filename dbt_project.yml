@@ -17,3 +17,5 @@ seeds:
 models:
   university_workshop:
     +static_analysis: strict
+flags:
+  require_generic_test_arguments_property: true
